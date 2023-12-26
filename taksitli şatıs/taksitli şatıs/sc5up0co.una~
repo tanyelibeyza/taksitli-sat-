@@ -1,0 +1,127 @@
+﻿namespace taksitli_şatıs
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtFiyat = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.bnHesapla = new System.Windows.Forms.Button();
+            this.lblTaksittutar = new System.Windows.Forms.Label();
+            this.tbtaksitsayisi = new System.Windows.Forms.TrackBar();
+            ((System.ComponentModel.ISupportInitialize)(this.tbtaksitsayisi)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(45, 43);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(50, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "FİYAT";
+            // 
+            // txtFiyat
+            // 
+            this.txtFiyat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtFiyat.Location = new System.Drawing.Point(101, 40);
+            this.txtFiyat.Name = "txtFiyat";
+            this.txtFiyat.Size = new System.Drawing.Size(100, 22);
+            this.txtFiyat.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Location = new System.Drawing.Point(45, 113);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(112, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "TAKSİT SAYISI";
+            // 
+            // bnHesapla
+            // 
+            this.bnHesapla.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.bnHesapla.Location = new System.Drawing.Point(98, 194);
+            this.bnHesapla.Name = "bnHesapla";
+            this.bnHesapla.Size = new System.Drawing.Size(103, 23);
+            this.bnHesapla.TabIndex = 3;
+            this.bnHesapla.Text = "HESAPLA";
+            this.bnHesapla.UseVisualStyleBackColor = true;
+            this.bnHesapla.Click += new System.EventHandler(this.bnHesapla_Click);
+            // 
+            // lblTaksittutar
+            // 
+            this.lblTaksittutar.AutoSize = true;
+            this.lblTaksittutar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblTaksittutar.Location = new System.Drawing.Point(115, 284);
+            this.lblTaksittutar.Name = "lblTaksittutar";
+            this.lblTaksittutar.Size = new System.Drawing.Size(120, 16);
+            this.lblTaksittutar.TabIndex = 4;
+            this.lblTaksittutar.Text = "TAKSİT TUTARI";
+            this.lblTaksittutar.Click += new System.EventHandler(this.bnHesapla_Click);
+            // 
+            // 
+            // tbtaksitsayisi
+            // 
+            this.tbtaksitsayisi.Location = new System.Drawing.Point(163, 101);
+            this.tbtaksitsayisi.Name = "tbtaksitsayisi";
+            this.tbtaksitsayisi.Size = new System.Drawing.Size(266, 45);
+            this.tbtaksitsayisi.TabIndex = 5;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.tbtaksitsayisi);
+            this.Controls.Add(this.lblTaksittutar);
+            this.Controls.Add(this.bnHesapla);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtFiyat);
+            this.Controls.Add(this.label1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.tbtaksitsayisi)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtFiyat;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button bnHesapla;
+        private System.Windows.Forms.Label lblTaksittutar;
+        private System.Windows.Forms.TrackBar tbtaksitsayisi;
+    }
+}
+

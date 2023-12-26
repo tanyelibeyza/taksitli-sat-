@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\bin\Debug\taksitli şatıs.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\bin\Debug\taksitli şatıs.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\bin\Debug\taksitli şatıs.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli_şatıs.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli_şatıs.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\taksitli şatıs\taksitli şatıs\obj\Debug\taksitli şatıs.pdb
